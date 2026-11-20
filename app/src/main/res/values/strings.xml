@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lumina Widgets</string>
+    <string name="widget_label">Thời tiết &amp; Giờ Material</string>
+    <string name="widget_description">Hiển thị giờ, nhiệt độ và dự báo nhanh chuẩn Material You trên màn hình chính.</string>
+</resources>
